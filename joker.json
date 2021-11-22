@@ -1,0 +1,282 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openads":"ca-app-pub-3940256099942544/1033173712",
+        "interval": 2,
+        "pengaturan_iklan":"1",
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "startaap":"1234567890",
+        "mopub_inter":"",
+        "mopu_banner":""
+            
+        }
+    ],
+
+"More":
+  [
+    {
+      "id":1,
+      "judul":"Ludo King Off",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "judul":"Homescapes Off",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "judul":"Minecraft Off",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Female Anime Eyes",
+      "gambar": "https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_drawing.png"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "Hand Reachings",
+      "gambar": "https://www.animeoutline.com/wp-content/uploads/2019/07/hand_reaching_drawing.png"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "Hand Pointing Away",
+      "gambar": "https://www.animeoutline.com/wp-content/uploads/2019/07/hand_reaching_drawing.png"
+
+    },
+    {
+      "id": 4,
+      "nama_cat": "Hand With a Claw Like Grip",
+      "gambar": "https://www.animeoutline.com/wp-content/uploads/2019/06/hand_claw_drawing.png"
+
+    }
+  ,
+    {
+      "id": 5,
+      "nama_cat": "Hand Pointing Finger",
+      "gambar": "https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_hand_drawing.png"
+
+    },
+    {
+      "id": 5,
+      "nama_cat": "Male Anime Hair",
+      "gambar": "https://www.animeoutline.com/wp-content/uploads/2019/06/anime_short_male_hair_drawing.png"
+
+    }
+  ],
+
+  "Origami":
+  [
+    {
+      "id":1,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_eyelids.png"
+    },
+    {
+      "id":2,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_iris.png"
+    }
+  ,
+    {
+      "id":3,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_away_hand_drawing.png"
+    }
+  ,
+    {
+      "id":4,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_upper_area.png"
+    }
+  ,
+    {
+      "id":5,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_primary_light_reflection.png"
+    }
+  ,
+    {
+      "id":6,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_secondary_light_reflection.png"
+    }
+  ,
+    {
+      "id":7,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_shading.png"
+    }
+  ,
+    {
+      "id":8,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_top_eyelashes.png"
+    },
+    {
+      "id":9,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_drawing.png"
+    }
+  ,
+    {
+      "id":10,
+      "nama_cat": "Female Anime Eyes",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2018/11/female_anime_eye_color_drawing.png"
+    },
+    {
+      "id":11,
+      "nama_cat": "Hand Reachings",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/hand_casting_palm_drawing.png"
+    },
+    {
+      "id":12,
+      "nama_cat": "Hand Reachings",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/hand_casting_fingers_drawing.png"
+    }
+  ,
+    {
+      "id":13,
+      "nama_cat": "Hand Reachings",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/hand_casting_shape_drawing.png"
+    }
+  ,
+    {
+      "id":14,
+      "nama_cat": "Hand Reachings",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/07/hand_casting_joints_drawing.png"
+    },
+    {
+      "id":15,
+      "nama_cat": "Hand Reachings",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_away_hand_palm_drawing.png"
+    },
+    {
+      "id":16,
+      "nama_cat": "Hand Pointing Away",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_away_hand_palm_drawing.png"
+    },
+    {
+      "id":17,
+      "nama_cat": "Hand Pointing Away",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_away_hand_fingers_drawing.png"
+    }
+  ,
+    {
+      "id":18,
+      "nama_cat": "Hand Pointing Away",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_away_hand_shape_drawing.png"
+    }
+  ,
+    {
+      "id":19,
+      "nama_cat": "Hand Pointing Away",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/07/finger_pointing_away_hand_joints_drawing.png"
+    },
+    {
+      "id":20,
+      "nama_cat": "Hand Pointing Away",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_away_hand_drawing.png"
+    },
+    {
+      "id":21,
+      "nama_cat": "Hand With a Claw Like Grip",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/hand_claw_palm_drawing.png"
+    },
+    {
+      "id":22,
+      "nama_cat": "Hand With a Claw Like Grip",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/hand_claw_fingers_drawing.png"
+    }
+  ,
+    {
+      "id":23,
+      "nama_cat": "Hand With a Claw Like Grip",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/hand_claw_shape_drawing.png"
+    }
+  ,
+    {
+      "id":24,
+      "nama_cat": "Hand With a Claw Like Grip",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/07/hand_claw_joints_drawing.png"
+    }
+  ,
+    {
+      "id":25,
+      "nama_cat": "Hand With a Claw Like Grip",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/hand_claw_drawing.png"
+    },
+    {
+      "id":26,
+      "nama_cat": "Hand Pointing Finger",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_hand_palm_drawing.png"
+    }
+  ,
+    {
+      "id":27,
+      "nama_cat": "Hand Pointing Finger",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_hand_fingers_drawing.png"
+    }
+  ,
+    {
+      "id":28,
+      "nama_cat": "Hand Pointing Finger",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_hand_shape_drawing.png"
+    }
+  ,
+    {
+      "id":29,
+      "nama_cat": "Hand Pointing Finger",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/07/finger_pointing_hand_joints_drawing.png"
+    }
+  ,
+    {
+      "id":30,
+      "nama_cat": "Hand Pointing Finger",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/finger_pointing_hand_drawing.png"
+    },
+    {
+    "id":31,
+    "nama_cat": "Male Anime Hair",
+    "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/anime_short_male_hair_front_drawing.png"
+  },
+    {
+      "id":32,
+      "nama_cat": "Male Anime Hair",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/anime_short_male_hair_sides_drawing.png"
+    }
+  ,
+    {
+      "id":33,
+      "nama_cat": "Male Anime Hair",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/anime_short_male_hair_back_top_drawing.png"
+    }
+  ,
+    {
+      "id":34,
+      "nama_cat": "Male Anime Hair",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/anime_short_male_hair_line_drawing.png"
+    }
+  ,
+    {
+      "id":35,
+      "nama_cat": "Male Anime Hair",
+      "image":"https://www.animeoutline.com/wp-content/uploads/2019/06/anime_short_male_hair_drawing.png"
+    }
+
+  ]
+}
