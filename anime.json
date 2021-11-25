@@ -1,0 +1,1254 @@
+{  "Iklan":
+[
+  {
+    "nativeid":"ca-app-pub-3940256099942544/2247696110",
+    "interid":"ca-app-pub-3940256099942544/1033173712",
+    "startapp":"1",
+    "interval": 2,
+    "status": "0",
+    "link": "https://"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"How To Draw Pennywise",
+      "image":"file:///android_asset/peni.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.scary.horor.clown.pennywise"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Anime Boy 1",
+      "gambar": "file:///android_asset/a7.webp"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "Anime Boy 2",
+      "gambar": "file:///android_asset/b12.webp"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "Anime Boy 3",
+      "gambar": "file:///android_asset/c10.webp"
+
+    },
+    {
+      "id": 4,
+      "nama_cat": "Anime Boy 4",
+      "gambar": "file:///android_asset/d20.webp"
+
+    },
+    {
+      "id": 5,
+      "nama_cat": "Anime Boy 5",
+      "gambar": "file:///android_asset/e11.webp"
+
+    },
+    {
+      "id": 6,
+      "nama_cat": "Anime Boy 6",
+      "gambar": "file:///android_asset/f7.webp"
+
+    },
+    {
+      "id": 7,
+      "nama_cat": "Anime Boy 7",
+      "gambar": "file:///android_asset/g9.webp"
+
+    },
+    {
+      "id": 8,
+      "nama_cat": "Anime Boy 8",
+      "gambar": "file:///android_asset/h14.webp"
+
+    },
+    {
+      "id": 9,
+      "nama_cat": "Anime Boy 9",
+      "gambar": "file:///android_asset/i15.webp"
+
+    },
+    {
+      "id": 10,
+      "nama_cat": "Anime Boy 10",
+      "gambar": "file:///android_asset/j12.webp"
+
+    },
+    {
+      "id": 11,
+      "nama_cat": "Girl 1",
+      "gambar": "file:///android_asset/k9.png"
+
+    },
+    {
+      "id": 12,
+      "nama_cat": "Girl 2",
+      "gambar": "file:///android_asset/m15.png"
+
+    },
+    {
+      "id": 13,
+      "nama_cat": "Girl 3",
+      "gambar": "file:///android_asset/n14.png"
+
+    },
+    {
+      "id": 14,
+      "nama_cat": "Girl 4",
+      "gambar": "file:///android_asset/o10.png"
+
+    },
+    {
+      "id": 15,
+      "nama_cat": "Anime Boy 11",
+      "gambar": "file:///android_asset/p12.png"
+
+    }
+  ],
+
+  "Origami":
+  [
+    {
+      "id":1,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a1.webp"
+    },
+    {
+      "id":2,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a2.webp"
+    },
+    {
+      "id":3,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a3.webp"
+    },
+    {
+      "id":4,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a4.webp"
+    },
+    {
+      "id":5,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a5.webp"
+    },
+    {
+      "id":6,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a6.webp"
+    },
+    {
+      "id":7,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a7.webp"
+    },
+    {
+      "id":8,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a8.webp"
+    },
+    {
+      "id":9,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a9.webp"
+    },
+    {
+      "id":10,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a10.webp"
+    },
+    {
+      "id":11,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a11.webp"
+    },
+    {
+      "id":12,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a12.webp"
+    },
+    {
+      "id":13,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a13.webp"
+    },
+    {
+      "id":14,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a14.webp"
+    },
+    {
+      "id":15,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a15.webp"
+    },
+    {
+      "id":16,
+      "nama_cat": "Anime Boy 1",
+      "image":"file:///android_asset/a16.webp"
+    },
+    {
+      "id":17,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b1.webp"
+    },
+    {
+      "id":18,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b2.webp"
+    }
+  ,
+    {
+      "id":19,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b3.webp"
+    },
+    {
+      "id":20,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b4.webp"
+    },
+    {
+      "id":21,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b5.webp"
+    },
+    {
+      "id":22,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b6.webp"
+    }
+  ,
+    {
+      "id":23,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b7.webp"
+    }
+  ,
+    {
+      "id":24,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b8.webp"
+    }
+  ,
+    {
+      "id":25,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b9.webp"
+    },
+    {
+      "id":26,
+      "nama_cat": "BAnime Boy 2",
+      "image":"file:///android_asset/b10.webp"
+    },
+    {
+      "id":27,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b13.webp"
+    },
+    {
+      "id":28,
+      "nama_cat": "Anime Boy 2",
+      "image":"file:///android_asset/b12.webp"
+    },
+    {
+      "id":29,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c1.webp"
+    },
+    {
+      "id":30,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c2.webp"
+    },
+    {
+	  "id":31,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c3.webp"
+    },
+    {
+      "id":32,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c4.webp"
+    },
+    {
+      "id":33,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c5.webp"
+    },
+    {
+      "id":34,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c6.webp"
+    },
+    {
+      "id":35,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c7.webp"
+    },
+    {
+      "id":36,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c8.webp"
+    },
+    {
+      "id":37,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c9.webp"
+    },
+    {
+      "id":38,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c10.webp"
+    },
+    {
+      "id":39,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c11.webp"
+    },
+    {
+      "id":40,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c12.webp"
+    },
+    {
+      "id":41,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c13.webp"
+    },
+    {
+      "id":42,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c14.webp"
+    },
+    {
+	  "id":43,
+      "nama_cat": "Anime Boy 3",
+      "image":"file:///android_asset/c15.webp"
+    },
+    {
+      "id":44,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d1.webp"
+    },
+    {
+      "id":45,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d2.webp"
+    },
+    {
+      "id":46,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d3.webp"
+    },
+    {
+      "id":47,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d4.webp"
+    },
+    {
+      "id":48,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d5.webp"
+    },
+    {
+      "id":49,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d6.webp"
+    },
+    {
+      "id":50,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d7.webp"
+    },
+    {
+      "id":51,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d8.webp"
+    },
+    {
+      "id":52,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d9.webp"
+    },
+    {
+      "id":53,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d10.webp"
+    },
+    {
+      "id":54,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d11.webp"
+    },
+    {
+      "id":55,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d12.webp"
+    },
+    {
+      "id":56,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d13.webp"
+    },
+    {
+      "id":57,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d14.webp"
+    },
+    {
+	  "id":58,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d15.webp"
+    },
+    {
+      "id":59,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d16.webp"
+    },
+    {
+      "id":60,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d17.webp"
+    },
+    {
+      "id":61,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d18.webp"
+    },
+    {
+      "id":62,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d19.webp"
+    },
+    {
+      "id":63,
+      "nama_cat": "Anime Boy 4",
+      "image":"file:///android_asset/d20.webp"
+    },
+    {
+      "id":64,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e1.webp"
+    },
+    {
+	  "id":65,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e2.webp"
+    },
+    {
+      "id":66,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e3.webp"
+    },
+    {
+      "id":67,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e4.webp"
+    },
+    {
+      "id":68,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e5.webp"
+    },
+    {
+      "id":69,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e6.webp"
+    },
+    {
+      "id":70,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e7.webp"
+    },
+    {
+      "id":71,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e8.webp"
+    },
+    {
+      "id":72,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e9.webp"
+    },
+    {
+      "id":73,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e10.webp"
+    },
+    {
+      "id":74,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e11.webp"
+    },
+    {
+      "id":75,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e12.webp"
+    },
+    {
+      "id":76,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e13.webp"
+    },
+    {
+      "id":77,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e14.webp"
+    },
+    {
+      "id":78,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e15.webp"
+    },
+    {
+      "id":79,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e16.webp"
+    },
+    {
+      "id":80,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e17.webp"
+    },
+    {
+      "id":81,
+      "nama_cat": "Anime Boy 5",
+      "image":"file:///android_asset/e18.webp"
+    },
+    {
+	  "id":82,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f1.webp"
+    },
+    {
+      "id":83,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f2.webp"
+    },
+    {
+      "id":84,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f3.webp"
+    },
+    {
+      "id":85,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f4.webp"
+    },
+    {
+      "id":86,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f5.webp"
+    },
+    {
+      "id":87,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f6.webp"
+    },
+    {
+      "id":88,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f7.webp"
+    },
+    {
+      "id":89,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f8.webp"
+    },
+    {
+      "id":90,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f9.webp"
+    },
+    {
+      "id":91,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f10.webp"
+    },
+    {
+      "id":92,
+      "nama_cat": "HAnime Boy 6",
+      "image":"file:///android_asset/f11.webp"
+    },
+    {
+      "id":93,
+      "nama_cat": "Anime Boy 6",
+      "image":"file:///android_asset/f12.webp"
+    },
+    {
+      "id":94,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g1.webp"
+    },
+    {
+      "id":95,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g2.webp"
+    },
+    {
+      "id":96,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g3.webp"
+    },
+    {
+      "id":97,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g4.webp"
+    },
+    {
+      "id":98,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g5.webp"
+    },
+    {
+      "id":99,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g6.webp"
+    },
+    {
+      "id":100,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g7.webp"
+    },
+    {
+      "id":101,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g8.webp"
+    },
+    {
+      "id":97,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g9.webp"
+    },
+    {
+      "id":98,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g10.webp"
+    },
+    {
+      "id":99,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g11.webp"
+    },
+    {
+      "id":100,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g12.webp"
+    },
+    {
+      "id":101,
+      "nama_cat": "Anime Boy 7",
+      "image":"file:///android_asset/g13.webp"
+    },
+    {
+      "id":102,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h1.webp"
+    },
+    {
+	  "id":103,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h2.webp"
+    },
+    {
+      "id":104,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h3.webp"
+    },
+    {
+      "id":105,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h4.webp"
+    },
+    {
+      "id":106,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h5.webp"
+    },
+    {
+      "id":107,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h6.webp"
+    },
+    {
+      "id":108,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h7.webp"
+    },
+    {
+      "id":109,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h8.webp"
+    },
+    {
+      "id":110,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h9.webp"
+    },
+    {
+      "id":111,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h10.webp"
+    },
+    {
+      "id":112,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h11.webp"
+    },
+    {
+      "id":113,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h12.webp"
+    },
+    {
+      "id":114,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h13.webp"
+    },
+    {
+      "id":115,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h14.webp"
+    },
+    {
+      "id":116,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h15.webp"
+    },
+    {
+      "id":117,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h16.webp"
+    },
+    {
+      "id":118,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h17.webp"
+    },
+    {
+      "id":119,
+      "nama_cat": "Anime Boy 8",
+      "image":"file:///android_asset/h17.webp"
+    },
+    {
+      "id":120,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i1.webp"
+    },
+    {
+	  "id":121,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i2.webp"
+    },
+    {
+      "id":122,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i3.webp"
+    },
+    {
+      "id":123,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i4.webp"
+    },
+    {
+      "id":124,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i5.webp"
+    },
+    {
+      "id":125,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i6.webp"
+    },
+    {
+      "id":126,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i7.webp"
+    },
+    {
+      "id":127,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i8.webp"
+    },
+    {
+      "id":128,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i9.webp"
+    },
+    {
+      "id":129,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i10.webp"
+    },
+    {
+      "id":130,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i11.webp"
+    },
+    {
+      "id":131,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i12.webp"
+    },
+    {
+      "id":132,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i13.webp"
+    },
+    {
+      "id":133,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i14.webp"
+    },
+    {
+      "id":134,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i15.webp"
+    },
+    {
+      "id":135,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i16.webp"
+    },
+    {
+      "id":136,
+      "nama_cat": "Anime Boy 9",
+      "image":"file:///android_asset/i17.webp"
+    },
+    {
+      "id":137,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j1.webp"
+    },
+    {
+	  "id":138,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j2.webp"
+    },
+    {
+      "id":139,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j3.webp"
+    },
+    {
+      "id":140,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j4.webp"
+    },
+    {
+      "id":141,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j5.webp"
+    },
+    {
+      "id":142,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j6.webp"
+    },
+    {
+      "id":143,
+      "nama_cat": "Anime Boy 10n",
+      "image":"file:///android_asset/j7.webp"
+    },
+    {
+      "id":144,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j8.webp"
+    },
+    {
+      "id":145,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j9.webp"
+    },
+    {
+      "id":146,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j10.webp"
+    },
+    {
+      "id":147,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j11.webp"
+    },
+    {
+      "id":148,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j12.webp"
+    },
+    {
+      "id":149,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j13.webp"
+    },
+    {
+      "id":150,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j14.webp"
+    },
+    {
+      "id":151,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j15.webp"
+    },
+    {
+      "id":152,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j16.webp"
+    },
+    {
+      "id":153,
+      "nama_cat": "Anime Boy 10",
+      "image":"file:///android_asset/j17.webp"
+    },
+    {
+      "id":154,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k1.png"
+    },
+    {
+      "id":155,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k2.png"
+    },
+    {
+      "id":156,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k3.png"
+    },
+    {
+      "id":157,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k4.png"
+    },
+    {
+      "id":158,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k5.png"
+    },
+    {
+      "id":159,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k6.png"
+    },
+    {
+      "id":160,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k7.png"
+    },
+    {
+      "id":161,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k8.png"
+    },
+    {
+      "id":162,
+      "nama_cat": "Girl 1",
+      "image":"file:///android_asset/k9.png"
+    },
+    {
+      "id":163,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m1.png"
+    },
+    {
+      "id":164,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m2.png"
+    }
+  ,
+    {
+      "id":165,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m3.png"
+    },
+    {
+      "id":167,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m4.png"
+    },
+    {
+      "id":168,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m5.png"
+    },
+    {
+      "id":169,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m6.png"
+    } ,
+    {
+      "id":170,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m7.png"
+    } ,
+    {
+      "id":171,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m8.png"
+    } ,
+    {
+      "id":172,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m9.png"
+    },
+    {
+      "id":173,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m10.png"
+    },
+    {
+      "id":174,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m11.png"
+    },
+    {
+      "id":175,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m12.png"
+    },
+    {
+      "id":176,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m13.png"
+    },
+    {
+      "id":177,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m14.png"
+    },
+    {
+      "id":178,
+      "nama_cat": "Girl 2",
+      "image":"file:///android_asset/m15.png"
+    },
+    {
+      "id":163,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n1.png"
+    },
+    {
+      "id":164,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n2.png"
+    }
+  ,
+    {
+      "id":165,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n3.png"
+    },
+    {
+      "id":167,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n4.png"
+    },
+    {
+      "id":168,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n5.png"
+    },
+    {
+      "id":169,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n6.png"
+    } ,
+    {
+      "id":170,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n7.png"
+    } ,
+    {
+      "id":171,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n8.png"
+    } ,
+    {
+      "id":172,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n9.png"
+    },
+    {
+      "id":173,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n10.png"
+    },
+    {
+      "id":174,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n11.png"
+    },
+    {
+      "id":175,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n12.png"
+    },
+    {
+      "id":176,
+      "nama_cat": "Girl 3",
+      "image":"file:///android_asset/n13.png"
+    },
+    {
+      "id":177,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o1.png"
+    } ,
+    {
+      "id":178,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o2.png"
+    },
+    {
+      "id":179,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o3.png"
+    },
+    {
+      "id":180,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o4.png"
+    },
+    {
+      "id":181,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o5.png"
+    },
+    {
+      "id":182,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o6.png"
+    },
+    {
+      "id":183,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o7.png"
+    },
+    {
+      "id":184,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o8.png"
+    },
+    {
+      "id":185,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o9.png"
+    },
+    {
+      "id":186,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o10.png"
+    },
+    {
+      "id":187,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o11.png"
+    },
+    {
+      "id":189,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o12.png"
+    },
+    {
+      "id":190,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o13.png"
+    },
+    {
+      "id":191,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o14.png"
+    } ,
+    {
+      "id":192,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o15.png"
+    } ,
+    {
+      "id":193,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o16.png"
+    } ,
+    {
+      "id":194,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o17.png"
+    },
+    {
+      "id":195,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o18.png"
+    },
+    {
+      "id":196,
+      "nama_cat": "Girl 4",
+      "image":"file:///android_asset/o19.png"
+    },
+    {
+      "id":197,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p1.png"
+    } ,
+    {
+      "id":198,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p2.png"
+    },
+    {
+      "id":199,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p3.png"
+    },
+    {
+      "id":200,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p4ng"
+    },
+    {
+      "id":201,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p5.png"
+    },
+    {
+      "id":202,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p6.png"
+    },
+    {
+      "id":203,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p7.png"
+    },
+    {
+      "id":204,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p8.png"
+    },
+    {
+      "id":205,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p9.png"
+    },
+    {
+      "id":206,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p10.png"
+    },
+    {
+      "id":207,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p11.png"
+    },
+    {
+      "id":208,
+      "nama_cat": "Anime Boy 11",
+      "image":"file:///android_asset/p12.png"
+    }
+  ]
