@@ -1,0 +1,370 @@
+{  "Iklan":
+[
+  {
+    "nativeid":"ca-app-pub-3940256099942544/2247696110",
+    "interid":"ca-app-pub-3940256099942544/1033173712",
+    "startapp":"1",
+    "interval": 2,
+    "status": "0",
+    "link": "https://"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"How To Draw - Pennywise",
+      "image":"file:///android_asset/Pennywise.png",
+      "link":"https://play.google.com/store/apps/details?id=how.to.draw.scary.horor.clown.pennywise"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Scary Nun 1",
+      "gambar": "file:///android_asset/a13.webp"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "Scary Nun 2",
+      "gambar": "file:///android_asset/b11.webp"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "Scary Nun 3",
+      "gambar": "file:///android_asset/d12.png"
+
+    },
+	{
+      "id": 4,
+      "nama_cat": "Scary Nun 4",
+      "gambar": "file:///android_asset/e7.webp"
+
+    }
+  ],
+
+  "Origami":
+  [
+    {
+      "id":1,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a1.webp"
+    },
+    {
+      "id":2,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a2.webp"
+    },
+    {
+      "id":3,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a3.webp"
+    },
+    {
+      "id":4,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a4.webp"
+    },
+    {
+      "id":5,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a5.webp"
+    },
+    {
+      "id":6,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a6.webp"
+    },
+    {
+      "id":7,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a7.webp"
+    },
+    {
+      "id":8,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a8.webp"
+    },
+    {
+      "id":9,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a9.webp"
+    },
+    {
+      "id":10,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a10.webp"
+    },
+    {
+      "id":11,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a11.webp"
+    },
+    {
+      "id":15,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a12.webp"
+    },
+    {
+      "id":16,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a13.webp"
+    },
+    {
+      "id":17,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a14.webp"
+    },
+    {
+      "id":18,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a15.webp"
+    }
+  ,
+    {
+      "id":19,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a16.webp"
+    },
+    {
+      "id":20,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a17.webp"
+    },
+    {
+      "id":21,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a18.webp"
+    },
+    {
+      "id":22,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a19.webp"
+    }
+  ,
+    {
+      "id":23,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a20.webp"
+    },
+    {
+      "id":24,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a21.webp"
+    },
+    {
+      "id":25,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a22.webp"
+    },
+    {
+      "id":41,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a23.webp"
+    },
+    {
+      "id":42,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a24.webp"
+    },
+    {
+	  "id":43,
+      "nama_cat": "Scary Nun 1",
+      "image":"file:///android_asset/a25.webp"
+    },
+    {
+      "id":44,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b1.webp"
+    },
+    {
+      "id":45,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b2.webp"
+    },
+    {
+      "id":46,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b3.webp"
+    },
+    {
+      "id":47,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b4.webp"
+    },
+    {
+      "id":48,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b5.webp"
+    },
+    {
+      "id":49,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b6.webp"
+    },
+    {
+      "id":50,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b7.webp"
+    },
+    {
+      "id":51,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b8.webp"
+    },
+    {
+      "id":52,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b9.webp"
+    },
+    {
+      "id":53,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b10.webp"
+    },
+    {
+      "id":54,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b11.webp"
+    },
+    {
+      "id":55,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b12.webp"
+    },
+    {
+      "id":64,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b13.webp"
+    },
+    {
+	  "id":65,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b14.webp"
+    },
+    {
+      "id":66,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b15.webp"
+    },
+    {
+      "id":67,
+      "nama_cat": "Scary Nun 2",
+      "image":"file:///android_asset/b16.webp"
+    },
+    {
+      "id":68,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d1.png"
+    },
+    {
+      "id":69,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d2.png"
+    },
+    {
+      "id":70,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d3.png"
+    },
+    {
+      "id":71,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d4.png"
+    },
+    {
+      "id":72,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d5.png"
+    },
+    {
+      "id":73,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d6.png"
+    },
+    {
+      "id":74,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d7.png"
+    },
+    {
+      "id":75,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d8.png"
+    },
+    {
+      "id":76,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d9.png"
+    },
+    {
+      "id":77,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d10.png"
+    },
+    {
+      "id":78,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d11.png"
+    },
+    {
+      "id":79,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d12.png"
+    },
+    {
+      "id":80,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d13.png"
+    },
+    {
+      "id":81,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d14.png"
+    },
+    {
+      "id":82,
+      "nama_cat": "Scary Nun 3",
+      "image":"file:///android_asset/d15.png"
+    },
+    {
+      "id":83,
+      "nama_cat": "Scary Nun 4",
+      "image":"file:///android_asset/e1.webp"
+    },
+    {
+      "id":84,
+      "nama_cat": "Scary Nun 4",
+      "image":"file:///android_asset/e2.webp"
+    },
+    {
+      "id":85,
+      "nama_cat": "Scary Nun 4",
+      "image":"file:///android_asset/e3.webp"
+    },
+    {
+      "id":86,
+      "nama_cat": "Scary Nun 4",
+      "image":"file:///android_asset/e4.webp"
+    },
+    {
+      "id":87,
+      "nama_cat": "Scary Nun 4",
+      "image":"file:///android_asset/e5.webp"
+    },
+    {
+      "id":88,
+      "nama_cat": "Scary Nun 4",
+      "image":"file:///android_asset/e6.webp"
+    },
+    {
+      "id":89,
+      "nama_cat": "Scary Nun 4",
+      "image":"file:///android_asset/e7.webp"
+    }
+  ]
+}
