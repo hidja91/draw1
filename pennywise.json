@@ -1,0 +1,332 @@
+{  "Iklan":
+[
+  {
+    "nativeid":"ca-app-pub-3940256099942544/2247696110",
+    "interid":"ca-app-pub-3940256099942544/1033173712",
+    "startapp":"1",
+    "interval": 2,
+    "status": "0",
+    "link": "https://"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"How To Draw Joker",
+      "image":"file:///android_asset/Joker.png",
+      "link":"https://play.google.com/store/apps/details?id=scary.joker.how.to.draw"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Draw Pennywise 1",
+      "gambar": "file:///android_asset/a14.webp"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "Draw Pennywise 2",
+      "gambar": "file:///android_asset/b14.webp"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "Draw Pennywise 3",
+      "gambar": "file:///android_asset/c11.webp"
+
+    },
+    {
+      "id": 4,
+      "nama_cat": "Draw Pennywise 4",
+      "gambar": "file:///android_asset/d15.webp"
+
+    }
+  ],
+
+  "Origami":
+  [
+    {
+      "id":1,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a1.webp"
+    },
+    {
+      "id":2,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a2.webp"
+    },
+    {
+      "id":3,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a3.webp"
+    },
+    {
+      "id":4,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a4.webp"
+    },
+    {
+      "id":5,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a5.webp"
+    },
+    {
+      "id":6,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a6.webp"
+    },
+    {
+      "id":7,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a7.webp"
+    },
+    {
+      "id":8,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a8.webp"
+    },
+    {
+      "id":9,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a9.webp"
+    },
+    {
+      "id":10,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a10.webp"
+    },
+    {
+      "id":11,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a11.webp"
+    },
+    {
+      "id":12,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a12.webp"
+    },
+    {
+      "id":13,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a13.webp"
+    },
+    {
+      "id":14,
+      "nama_cat": "Draw Pennywise 1",
+      "image":"file:///android_asset/a14.webp"
+    },
+    {
+      "id":15,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b1.webp"
+    },
+    {
+      "id":16,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b2.webp"
+    },
+    {
+      "id":17,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b3.webp"
+    },
+    {
+      "id":18,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b4.webpg"
+    }
+  ,
+    {
+      "id":19,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b5.webp"
+    },
+    {
+      "id":20,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b6.webp"
+    },
+    {
+      "id":21,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b7.webp"
+    },
+    {
+      "id":22,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b8.webp"
+    }
+  ,
+    {
+      "id":23,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b9.webp"
+    }
+  ,
+    {
+      "id":24,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b10.webp"
+    }
+  ,
+    {
+      "id":25,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b11.webp"
+    },
+    {
+      "id":26,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b12.webp"
+    },
+    {
+      "id":27,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b13.webp"
+    },
+    {
+      "id":28,
+      "nama_cat": "Draw Pennywise 2",
+      "image":"file:///android_asset/b14.webp"
+    },
+    {
+      "id":29,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c1.webp"
+    },
+    {
+      "id":30,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c2.webp"
+    },
+    {
+	  "id":31,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c3.webp"
+    },
+    {
+      "id":32,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c4.webp"
+    },
+    {
+      "id":33,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c5.webp"
+    },
+    {
+      "id":34,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c6.webp"
+    },
+    {
+      "id":35,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c7.webp"
+    },
+    {
+      "id":36,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c8.webp"
+    },
+    {
+      "id":37,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c9.webp"
+    },
+    {
+      "id":38,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c10.webp"
+    },
+    {
+      "id":39,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c11.webp"
+    },
+    {
+      "id":40,
+      "nama_cat": "Draw Pennywise 3",
+      "image":"file:///android_asset/c11.webp"
+    },
+    {
+      "id":41,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d1.webp"
+    },
+    {
+      "id":42,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d2.webp"
+    },
+    {
+	  "id":43,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d3.webp"
+    },
+    {
+      "id":44,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d4.webp"
+    },
+    {
+      "id":45,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d5.webp"
+    },
+    {
+      "id":46,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d6.webp"
+    },
+    {
+      "id":47,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d7.webp"
+    },
+    {
+      "id":48,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d8.webp"
+    },
+    {
+      "id":49,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d9.webp"
+    },
+    {
+      "id":50,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d10.webp"
+    },
+    {
+      "id":51,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d11.webp"
+    },
+    {
+      "id":52,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d12.webp"
+    },
+    {
+      "id":53,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d13.webp"
+    },
+    {
+      "id":54,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d14.webp"
+    },
+    {
+      "id":55,
+      "nama_cat": "Draw Pennywise 4",
+      "image":"file:///android_asset/d15.webp"
+    }
+  ]
+}
